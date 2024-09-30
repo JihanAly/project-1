@@ -1,2 +1,2 @@
-# project-1
-jihan alya 082
+# Mini Project-1
+jihan alya Naflah 2409116082 kelas C
